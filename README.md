@@ -1,4 +1,5 @@
 # T2 - Computação Gráfica
+Video de Demonstração: https://youtu.be/xWv1bjEmuYc
 
 ## Descrição
 Este projeto é uma implementação em Python utilizando OpenGL para criar uma animação 3D baseada no vídeo de referência (0:26 - 0:43) do YouTube. O projeto demonstra conceitos fundamentais de computação gráfica, incluindo modelagem 3D, animação, iluminação e controle de câmera.
